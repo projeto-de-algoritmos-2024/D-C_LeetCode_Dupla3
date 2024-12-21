@@ -10,7 +10,10 @@
 | 21/1062713 |  Paola Rebeca Lima do Nascimento  |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para este trabalho, a dupla irá realizar exercícios de programação do LeetCode, praticando algoritmos que sigam a intuição de Divisão e Conquista.
+
+- [Problema 218](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Problema 23](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
