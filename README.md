@@ -12,9 +12,9 @@
 ## Sobre 
 Para este trabalho, a dupla irá realizar exercícios de programação do LeetCode, praticando algoritmos que sigam a intuição de Divisão e Conquista.
 
-- [Problema 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [Problema 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer)
 - [Problema 23](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=divide-and-conquer)
-- [Problema 215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+- [Problema 53](https://leetcode.com/problems/maximum-subarray/description/?envType=problem-list-v2&envId=divide-and-conquer)
 - [Problema 218](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 ## Screenshots
