@@ -18,7 +18,16 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 - [Problema 218](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 ## Screenshots
-![4. Median of Two Sorted Arrays](assets/problem4.png)
+
+=======
+### Problema 4
+![imagem2](assets/problem4.png)
+### Problema 23
+![imagem2](assets/problem23.png)
+### Problema 215
+### Problema 218
+![imagem4](assets/problem218.png)
+>>>>>>> 6e7b3c440e814a495f5bf19f6ea7a9b8cf839de4
 
 ## Instalação 
 **Linguagem**: Python 3<br>
