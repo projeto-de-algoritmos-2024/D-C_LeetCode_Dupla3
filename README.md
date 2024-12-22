@@ -24,10 +24,10 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 ![imagem2](assets/problem4.png)
 ### Problema 23
 ![imagem2](assets/problem23.png)
-### Problema 215
+### Problema 53
+![imagem2](assets/problem53.png)
 ### Problema 218
 ![imagem4](assets/problem218.png)
->>>>>>> 6e7b3c440e814a495f5bf19f6ea7a9b8cf839de4
 
 ## Instalação 
 **Linguagem**: Python 3<br>
