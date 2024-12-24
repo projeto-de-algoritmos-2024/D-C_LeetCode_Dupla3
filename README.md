@@ -19,7 +19,6 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 
 ## Screenshots
 
-=======
 ### Problema 4
 ![imagem2](assets/problem4.png)
 ### Problema 23
