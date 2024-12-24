@@ -37,6 +37,6 @@ Copie o código da questão e cole no respectivo problema no LeetCode. Após iss
 
 ## Link do Vídeo
 
-
+[Clique Aqui!](https://youtu.be/QUkyQHxnIAE)
 
 
